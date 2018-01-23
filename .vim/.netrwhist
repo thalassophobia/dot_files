@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Ph3ncyclidine/Downloads/ExceptionHandleStudent'
+let g:netrw_dirhist_2='/Users/Ph3ncyclidine/Desktop/School/fall_2017/audio_cs4590/hw/processing/Sketches/PeonClaude_ce6'
+let g:netrw_dirhist_3='/Users/Ph3ncyclidine/Desktop/School/fall_2017/audio_cs4590/hw/processing/libraries/controlP5/examples/controllers/ControlP5button'
