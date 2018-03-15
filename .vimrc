@@ -52,6 +52,11 @@ endif
 
 filetype plugin indent on
 
+let &t_ti.="\e[1 q"
+let &t_SI.="\e[5 q"
+let &t_Ei.="\e[1 q"
+let &t_te.="\e[0 q"
+
 autocmd FileType text setlocal textwidth=78
 
 autocmd BufReadPost *
