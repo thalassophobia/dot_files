@@ -76,3 +76,5 @@ set mouse=a
 
 "When navigating with {} avoid opening folds
 set foldopen-=block
+“Also yanks into system clipboard by default
+set clipboard=unnamed
